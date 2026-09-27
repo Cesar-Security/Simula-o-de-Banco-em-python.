@@ -19,7 +19,7 @@ para o desenvolvimento do perfil em si. A partir da criação da conta você pod
 * saida.
 
 Em tese, é muito auto intuitivo, visto que a maioria das funções foi simplificada com a biblioteca inquirer py. Entretanto, nas áreas de transferencia pode haver um desentendimento, entao eu irei explicar:
- a função de transferir lhe dará algumas sugestões para transferir a quantia de dinheiro desejada, sendo eles gary, ronaldo, e o outro, a qual vc escreve quem é a pessoa de sua preferencia e o valor desejado. 
+ a função de transferir lhe dará algumas sugestões para transferir a quantia de dinheiro desejada, sendo eles gary, shelby, ronaldo e o outro, a qual vc escreve quem é a pessoa de sua preferencia e o valor desejado. 
 
 ## creditos à música: Alexzavesa, no site pixabay
 
